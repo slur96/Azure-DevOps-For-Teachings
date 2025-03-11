@@ -1,5 +1,5 @@
 variable "public_key_loc" {
-  default = "C:/Users/d"
+  default = "C:\Users\newli\.ssh\id_ed25519.pub"
 }
 
 variable "resource_group_location" {
